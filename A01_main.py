@@ -22,7 +22,7 @@ def main():
     except Exception as e:
         print(f"Error creating Client: {e}")
 
-    # 2. Declare a BankAccount object with an initial value of None.
+    # 2. Declare a BankAccount object with initial value of None.
     bank_account = None
 
     # 3. Using the bank_account object declared in step 2, code a statement 
