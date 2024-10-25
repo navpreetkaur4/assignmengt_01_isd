@@ -5,7 +5,7 @@ an entire system will be created to manage bank transactions for clients who
 have one or more bank accounts.
 
 ## Author
-Sukhtab Singh Warya
+Navpreet
 
 ## Assignment
 Assignment1: Classes, Encapsulation and Unit Test Planning.
