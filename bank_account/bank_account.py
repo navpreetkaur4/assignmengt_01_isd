@@ -1,7 +1,7 @@
 """
 Description: This file defines the BankAccount class, which represents a bank account with basic operations such as deposit and withdrawal.
 Author: Navpreet kaur
-Date: 10/09/2024
+Date: 10october 2024
 """
 
 class BankAccount:
