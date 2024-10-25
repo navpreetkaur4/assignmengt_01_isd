@@ -1,7 +1,7 @@
 """
 Description: Unit tests for the Client class.
 Author: ACE Faculty
-Modified by: {Student Name}
+Modified by: {Navpreet}
 Date: {Date}
 Usage: To execute all tests in the terminal execute 
 the following command:
