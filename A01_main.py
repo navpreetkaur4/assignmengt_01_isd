@@ -2,7 +2,7 @@
 Description: A client program written to verify correctness of 
 the BankAccount and Transaction classes.
 Author: ACE Faculty
-Edited by: Navpreet kaur
+Edited by: Navpreet 
 Date: 10/09/2024S
 """
 from bank_account.bank_account import BankAccount
